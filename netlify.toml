@@ -1,5 +1,7 @@
 [build]
 publish = "dist"
 
-[redirects]
-/aboutus /about 200
+[[redirects]]
+  from = "/aboutus"
+  to = "/about"
+  status = 200
