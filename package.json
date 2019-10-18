@@ -1,0 +1,15 @@
+{
+  "name": "netlify-drop-demo-site-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bhavana-netlify/netlify-drop-demo-site-master.git",
+  "author": "bhavana <bhavana@netlify.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
